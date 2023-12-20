@@ -1,1 +1,1 @@
-# blockchain-simulator
+This project creates a simple example of how crypto blockchains (Bitcoin, Ethereum, etc.) function from user to user. It checks each hash value and determines whether or not the block is valid. Each block successfully retrieves the previous hash, and if the amount somehow manages to be changed, the hash value may remain the same, but will register as an invalid block, demonstrating the security of blockchains.
